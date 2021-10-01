@@ -1,0 +1,5 @@
+<map id="pvac::MonitorSync" name="pvac::MonitorSync">
+<area shape="rect" id="node2" href="$structpvac_1_1_monitor.html" title="Handle for monitor subscription. " alt="" coords="5,96,107,123"/>
+<area shape="rect" id="node3" href="$structpvac_1_1_monitor_event.html" title="Information on monitor subscription/queue change. " alt="" coords="131,96,265,123"/>
+<area shape="rect" id="node4" href="/home/phoebus4/ANJ/epics/base/7.0/modules/pvAccess/documentation/libstdc++.tag$a03900.html" title="basic_string\&lt; char \&gt;" alt="" coords="128,5,269,32"/>
+</map>
